@@ -1,94 +1,31 @@
-```py
-print("Hello! I'm Mehran Ul Islam, but you can call me Mehrooons")
-```
+<p align="center">
+  <a href="https://github.com/Mehrooons">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Mehran-Ul%20Oslam" alt="Hello! I&#39;m Mehran-Ul Oslam" />
+  </a>
+</p>
 
-## My reason to start
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=625&height=44&lines=Web%20Development%20%7C%20Vibe%20Coder%20%7C%20Frontend" alt="Typing headlines" />
+</p>
 
-- Coding is a genuinely fun and challenging task to complete, and that's what I look for.
-- In recent years AI has made people call themselves "coders/programmers" while skipping the fundamentals — I wanted to learn properly instead of following the crowd.
-- My goal is to become a web developer — something uncommon where I'm from — and carve my own path.
+### 📊 GitHub Stats
 
-## My skills
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Mehrooons&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Mehrooons&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-**Frontend:** HTML, CSS, JavaScript, React, React Router
+### 📈 Contribution Graph
 
-**Also familiar with:** Python (early learning stage)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Mehrooons&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
----
+### 💭 Dev Quote
 
-## Open for Collaboration 🤝
-
-I'm currently building my portfolio and looking to collaborate on projects where I can contribute to **frontend development**.
-
-Here's what I offer:
-
-- **Frontend support:** clean HTML, CSS, JS, and React.
-- **Portfolio-focused work:** all contributions will be visible on my GitHub, giving you credit for the project.
-- **Flexible collaboration:** remote-friendly, async communication, happy to adapt to your project workflow.
-
-What I'm looking for:
-
-- Projects where I can gain experience and showcase my work.
-- Long-term collaboration opportunities if the project continues to grow.
-
-> If you have a project that could use a frontend touch, don't hesitate to reach out. Let's build something clean, functional, and awesome together!
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-### Proud owner of
-
-- [Atomos](https://github.com/Atomos-Js/Atomos/)
-- [StyleDecore](https://github.com/Mehrooons/StyleDecore) — full-stack interior design/decor site (React/Vite + Express/Node + MongoDB Atlas)
-
----
-
-## I believe in the statement
-
-> Float like a butterfly, sting like a bee.
->
-> — Muhammad Ali
-
-My projects embody that same spirit. I aim to move lightly, adapt quickly, and hit hard when it matters. Every line of code, every feature, and every collaboration is designed to maximize impact while keeping the workflow agile and elegant.
-
----
-
-## Some words from me
-
-> Always remember you're not alone — whether it's personal or coding-related, someone else out there is facing the same problem. Not being in the light doesn't mean we can't help each other get back on our feet.
->
-> —— Mehran Ul Islam
-> <!-- Just a line -->
-
----
-
-## Random things about me
-
-I play a lot of racing games. Check out:
-
-- [Steam](https://steamcommunity.com/profiles/76561199658449613/)
-
----
-
-## 📫 Contact me
-
-- **Email:** mehranislam111@gmail.com
-- **Discord:** @Mehrooons 
-
-<!--
-Music plays a big role in how I think, work, and stay motivated while coding.
-
-# See You Again (feat. Charlie Puth)
-> First, you both go out your way and the vibe is feelin' strong
-> And what's small turned to a friendship, a friendship turned to a bond
-> ...
-
-# No Role Modelz
-> No role models, and I'm here right now
-> ...
-
-# Euphoria
-> ...
-
-# Pride
-> ...
--->
+<p align="center"><i>⭐️ From <a href="https://github.com/Mehrooons">Mehrooons</a></i></p>
